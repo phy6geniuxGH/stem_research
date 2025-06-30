@@ -1,0 +1,102 @@
+ /*
+    if ((millis() - lastUpdate2) > updateInterval2) {
+    lastUpdate2 = millis();
+    pwm.setPWM(1, 0, angleToPulse1(angle1[pos2]));
+    pos2++;
+    if ((pos2 >= arraySize) || (pos2 <= 0)) {
+      pos2 = 0;
+    }
+    }
+  */
+
+  if ((millis() - lastUpdate3) > updateInterval3) {
+    lastUpdate3 = millis();
+    pwm.setPWM(2, 0, angleToPulse2(angle2[pos3]));
+    pos3++;
+    if ((pos3 >= arraySize) || (pos3 <= 0)) {
+      pos3 = 0;
+    }
+  }
+
+
+  if ((millis() - lastUpdate4) > updateInterval4) {
+    lastUpdate4 = millis();
+    pwm.setPWM(3, 0, angleToPulse3(angle3[pos4]));
+    pos4++;
+    if ((pos4 >= arraySize) || (pos4 <= 0)) {
+      pos4 = 0;
+    }
+  }
+  /*
+    if ((millis() - lastUpdate5) > updateInterval5) {
+    lastUpdate5 = millis();
+    pwm.setPWM(4, 0, angleToPulse4(angle4[pos5]));
+    pos5++;
+    if ((pos5 >= arraySize) || (pos5 <= 0)) {
+      pos5 = 0;
+    }
+    }
+  */
+  if ((millis() - lastUpdate6) > updateInterval6) {
+    lastUpdate6 = millis();
+    pwm.setPWM(5, 0, angleToPulse5(angle5[pos6]));
+    pos6++;
+    if ((pos6 >= arraySize) || (pos6 <= 0)) {
+      pos6 = 0;
+    }
+  }
+
+
+  if ((millis() - lastUpdate7) > updateInterval7) {
+    lastUpdate7 = millis();
+    pwm.setPWM(6, 0, angleToPulse6(angle6[pos7]));
+    pos7++;
+    if ((pos7 >= arraySize) || (pos7 <= 0)) {
+      pos7 = 0;
+    }
+  }
+  /*
+    if ((millis() - lastUpdate8) > updateInterval8) {
+    lastUpdate8 = millis();
+    pwm.setPWM(7, 0, angleToPulse7(angle7[pos8]));
+    pos8++;
+    if ((pos8 >= arraySize) || (pos8 <= 0)) {
+      pos8 = 0;
+    }
+    }
+  */
+  if ((millis() - lastUpdate9) > updateInterval9) {
+    lastUpdate9 = millis();
+    pwm.setPWM(8, 0, angleToPulse8(angle8[pos9]));
+    pos9++;
+    if ((pos9 >= arraySize) || (pos9 <= 0)) {
+      pos9 = 0;
+    }
+  }
+
+  if ((millis() - lastUpdate10) > updateInterval10) {
+    lastUpdate10 = millis();
+    pwm.setPWM(9, 0, angleToPulse9(angle9[pos10]));
+    pos10++;
+    if ((pos10 >= arraySize) || (pos10 <= 0)) {
+      pos10 = 0;
+    }
+  }
+  /*
+    if ((millis() - lastUpdate11) > updateInterval11) {
+    lastUpdate11 = millis();
+    pwm.setPWM(10, 0, angleToPulse10(angle10[pos11]));
+    pos11++;
+    if ((pos11 >= arraySize) || (pos11 <= 0)) {
+      pos11 = 0;
+    }
+    }
+  */
+  if ((millis() - lastUpdate12) > updateInterval12) {
+    lastUpdate12 = millis();
+    pwm.setPWM(11, 0, angleToPulse11(angle11[pos12]));
+    pos12++;
+    if ((pos12 >= arraySize) || (pos12 <= 0)) {
+      pos12 = 0;
+    }
+  }
