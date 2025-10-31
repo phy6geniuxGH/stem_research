@@ -3,3 +3,6 @@
 - Python
 - Matlab
 - Jupyter Notebooks
+
+# Topics
+- Finite Difference Time Domain (FDTD)
