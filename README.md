@@ -7,3 +7,4 @@
 # Topics
 - Finite Difference Time Domain (FDTD)
 - Metasurface Design
+- Computational Electromagnetics
