@@ -9,3 +9,4 @@
 - Metasurface Design
 - Computational Electromagnetics
 - ML-enabled Electromagnetics
+- Vision Transformers for Metaoptics Design
