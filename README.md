@@ -11,3 +11,4 @@
 - ML-enabled Electromagnetics
 - Vision Transformers for Metaoptics Design
 - Agentic AI for Physics Education
+- MANIM-animated Physics and Math shorts
