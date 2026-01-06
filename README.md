@@ -12,3 +12,4 @@
 - Vision Transformers for Metaoptics Design
 - Agentic AI for Physics Education
 - MANIM-animated Physics and Math shorts
+- Edge ML devices and Arduino
