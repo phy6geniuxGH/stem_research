@@ -13,3 +13,4 @@
 - Agentic AI for Physics Education
 - MANIM-animated Physics and Math shorts
 - Edge ML devices and Arduino
+- Optics and Photonics
