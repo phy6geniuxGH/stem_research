@@ -14,3 +14,4 @@
 - MANIM-animated Physics and Math shorts
 - Edge ML devices and Arduino
 - Optics and Photonics
+- Computational Fluid Dynamics
