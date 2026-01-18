@@ -15,3 +15,4 @@
 - Edge ML devices and Arduino
 - Optics and Photonics
 - Computational Fluid Dynamics
+- Density Functional Theory Calculations
