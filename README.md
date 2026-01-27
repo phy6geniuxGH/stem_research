@@ -17,3 +17,4 @@
 - Computational Fluid Dynamics
 - Density Functional Theory Calculations
 - Metamaterial Computations
+- Tidy3D FDTD Simulations
