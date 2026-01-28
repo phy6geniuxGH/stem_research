@@ -18,3 +18,4 @@
 - Density Functional Theory Calculations
 - Metamaterial Computations
 - Tidy3D FDTD Simulations
+- Spatiotemporal Fusion Transformer Models for Dynamical System Predictions
